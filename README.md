@@ -45,12 +45,3 @@
 <div style="border: 1px solid #dfe6e9; box-shadow: 0 4px 8px rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #ffffff, #f2f4f6); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2d3436; line-height: 1.6;">
   <p style="font-size: 16px;">This EDA project provides a strong foundation for further modeling or business decisions. The visual insights guide us in understanding the dataset's composition, patterns, and anomalies effectively.</p>
 </div>
-
-<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50;">📞 Contact</h2>
-
-<p style="font-size: 16px;">For more details or collaboration, feel free to reach out:</p>
-
-<ul style="font-size: 16px; padding-left: 20px;">
-  <li>📧 Email: <a href="mailto:hk5652990@gmail.com">hk5652990@gmail.com</a></li>
-  <li>🌐 Portfolio: <a href="https://himanshu-kushwaha-2004.github.io/Port_folio/" target="_blank">Visit My Portfolio</a></li>
-</ul>
